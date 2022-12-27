@@ -48,7 +48,7 @@ setup(
     install_requires=[
         "numpy==1.17.4",
         "pandas==0.23.4",
-        "setuptools==40.2.0",
+        "setuptools==65.5.1",
         "shap==0.33",
         "xgboost==1.0.1",
         "flask==1.1.1",
